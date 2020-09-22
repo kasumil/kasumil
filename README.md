@@ -4,6 +4,8 @@
 
 </div>
 
+<div align=center>
+  
 ## Hellow!
 
 ## Front-end Developer 프론트엔드 개발자
@@ -21,7 +23,8 @@
 
 ## Interest    
  	python, node, typscript, kotlin, swift, React-native
-	
+</div>
+
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://kasumil.tistory.com/)](https://kasumil.tistory.com/)
