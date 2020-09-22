@@ -22,7 +22,7 @@
 <div align=center>
   
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&link=https://kasumil.tistory.com/)](https://kasumil.tistory.com/)
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCOms89Hm2ra_4sNkp0D6w3A/featured?disable_polymer=1)](https://www.youtube.com/channel/UCOms89Hm2ra_4sNkp0D6w3A/featured?disable_polymer=1)
+[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCOms89Hm2ra_4sNkp0D6w3A)](https://www.youtube.com/channel/UCOms89Hm2ra_4sNkp0D6w3A)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ridou99@gmail.com)](mailto:ridou99@gmail.com)
 
 </div>
