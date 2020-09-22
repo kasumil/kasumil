@@ -13,9 +13,9 @@
 	프론트엔드 React 웹개발자 송수호입니다.
  
 ## 완성한 프로젝트   
-	WRDS(Warten Data Research Service) 클론   
-	이솝(Aesop) 클론  
-	트립어드바이저(TripAdvisor) 클론 
+WRDS(Warten Data Research Service) 클론   
+이솝(Aesop) 클론  
+트립어드바이저(TripAdvisor) 클론 
 
 
 ## My Skill   
