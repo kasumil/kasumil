@@ -11,12 +11,6 @@
 ## Front-end Developer 프론트엔드 개발자
 	Front-end Developer React Webcoder 
 	프론트엔드 React 웹개발자 송수호입니다.
- 
-## 완성한 프로젝트   
-	WRDS(Warten Data Research Service) 클론   
-	이솝(Aesop) 클론  
-	트립어드바이저(TripAdvisor) 클론 
-
 
 ## My Skill   
 	React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux
