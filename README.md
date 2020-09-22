@@ -3,23 +3,27 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkasumil&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 </div>
-	
-안녕하세요. Hellow!
 
-Front-end Developer React Webcoder 
-프론트엔드 React 웹개발자 송수호입니다.
+<div align=center>
+
+## Hellow!
+
+## Front-end Developer 프론트엔드 개발자
+	Front-end Developer React Webcoder 
+	프론트엔드 React 웹개발자 송수호입니다.
  
-현재 진행한 프로젝트로는   
-WRDS(Warten Data Research Service) 클론   
-이솝(Aesop) 클론  
-트립어드바이저(TripAdvisor) 클론 
-을 진행하였습니다.
+## 완성한 프로젝트   
+	WRDS(Warten Data Research Service) 클론   
+	이솝(Aesop) 클론  
+	트립어드바이저(TripAdvisor) 클론 
 
-My Skill   
-React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux
 
--- Interest    
- python, node, typscript, kotlin, swift, React-native
+## My Skill   
+	React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux
+
+## Interest    
+ 	python, node, typscript, kotlin, swift, React-native
+</div>
 
 <div align=center>
   
