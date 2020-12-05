@@ -13,10 +13,10 @@
 	프론트엔드 React 웹개발자 송수호입니다.
 
 ## My Skill   
-	React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux
+	React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux, typscript, React-native
 
 ## Interest    
- 	python, node, typscript, kotlin, swift, React-native
+ 	python, node, kotlin, swift, React-native
 </div>
 
 <div align=center>
