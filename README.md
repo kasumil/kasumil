@@ -16,7 +16,7 @@
 	React, JavaScript, CSS in JS, SASS/SCSS, GIT, Github, Redux, typscript, React-native
 
 ## Interest    
- 	python, node, kotlin, swift, React-native
+ 	python, node, kotlin, swift
 </div>
 
 <div align=center>
