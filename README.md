@@ -16,7 +16,7 @@
 	React, JavaScript, CSS in JS, SASS/SCSS, Git, Github, Redux, typscript, React-native
 
 ## Interest    
- 	python, node, kotlin, swift, vue, vuetify, firebase, mongodb, java
+ 	Python, Node, Kotlin, Swift, Vue, Vuetify, Firebase, Mongodb, Java
 </div>
 
 <div align=center>
