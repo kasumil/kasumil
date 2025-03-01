@@ -6,7 +6,7 @@
 
 <div align=center>
   
-## Hellow!
+## Hello!
 
 ## Front-end Developer 프론트엔드 개발자
 	Front-end Developer React Webcoder 
