@@ -14,9 +14,10 @@
 
 ## My Skill   
 	React, JavaScript, CSS in JS, SASS/SCSS, Git, Github, Redux, Typscript, React-Native, PHP, Jquery, Node
+ 	NextJS, Supabase, KOA
 
 ## Interest    
- 	Python, Kotlin, Swift, Vue, Vuetify, Firebase, Mongodb, Java
+ 	Python, Kotlin, Swift, Vue, Firebase, Mongodb, Java
 </div>
 
 <div align=center>
